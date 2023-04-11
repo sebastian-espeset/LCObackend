@@ -4,7 +4,8 @@
   "description": "first backend app for udemy course",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node",
+    "dev": "nodemon index.js"
   },
   "keywords": [
     "express",
